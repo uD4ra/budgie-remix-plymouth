@@ -1,5 +1,5 @@
 #Original concept by Lozano Juan Pablo <libredeb@gmail.com>
-#Adapted version by Fabián Alexis <fabian.inostroza.1992@gnail.com>
+#Edited version by Udara Madubhashana <udara.u3@gmail.com>
 
 Window.GetMaxWidth = fun (){
   i = 0;
