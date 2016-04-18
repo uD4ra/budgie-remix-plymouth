@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Budgie
+Description=A Plymouth theme for Budgie-Remix
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/budgie-remix
+ScriptFile=/usr/share/plymouth/themes/Solus/budgie-remix.script
